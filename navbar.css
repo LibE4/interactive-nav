@@ -1,0 +1,33 @@
+li {
+	display: block;
+	background-color: green;
+	margin: 20px;
+	width: 50px;
+	border: 1px solid black;
+	text-align: center;
+
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+	color: red;
+}
+
+a:hover {
+	color: white;
+}
+
+li:hover {
+	background-color: grey;
+}
+
+li:active {
+	width: 60px;
+	margin: 20px 15px;
+}
+
+
